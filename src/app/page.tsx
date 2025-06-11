@@ -158,7 +158,7 @@ export default function Home() {
             <br />
             <span className="text-3xl">🐾 Buding the guard cat stops you at the door.</span>
             <br />
-            <span className="text-2xl">🔒 "State your name to enter!"</span>
+            <span className="text-2xl">🔒 &quot;State your name to enter!&quot;</span>
           </p>
           <input
             className="rounded px-4 py-2 text-black focus:outline-none focus:ring-4 focus:ring-lavender"
